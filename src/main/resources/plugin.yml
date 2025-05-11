@@ -1,0 +1,5 @@
+name: ClaimTime
+version: '${version}'
+main: me.rexoz.xyz.nexusclaimtime.ClaimBlocker
+depend:
+  - hClaims
